@@ -1,0 +1,9 @@
+#++
+#-- 
+#veremos en bucles
+
+#tenemos:
+# += 
+# -= 
+# /= 
+# %=
