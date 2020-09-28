@@ -1,0 +1,40 @@
+Sitio oficil de ruby:
+www.ruby-lang.org
+
+Reglas de sitaxis Ruby:
+https://github.com/rubocop-hq/ruby-style-guide
+
+Gemas official:
+https://rubygems.org/
+
+Ruby on Rails official:
+https://rubyonrails.org/
+https://guides.rubyonrails.org/getting_started.html
+
+Editor de expresiones regulares - ruby:
+https://rubular.com/
+(Esto por ejemplo para que el programa reconozca @#$, etc..)
+
+Desintalar viejas versioens de gemas de ruby:
+https://stackoverflow.com/questions/5902488/uninstall-old-versions-of-ruby-gems
+
+Boostrap 3:
+https://www.youtube.com/watch?v=nug1pMke-y4&list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW
+
+Materialize:
+https://materializecss.com/
+
+Materialize + Ruby:
+https://github.com/mkhairi/materialize-sass
+
+
+(Ver el manual)
+	Instalar Rails:
+	https://github.com/rails/rails
+
+	Istalar Ruby:
+	https://rubyinstaller.org/
+
+	Instalar Yarn:
+	https://classic.yarnpkg.com/en/docs/install#windows-stable
+
